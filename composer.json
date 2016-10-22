@@ -1,0 +1,16 @@
+{
+
+    "name" : "boywus/foxphp",
+    "description" : "boywus project",
+    "keywords" : ["boywus","foxpphp"],
+    "homepage" : "http://nice3.cn",
+    "license" : ["Apache-2.0","GPL-2.0+"],
+    "authors" :[
+        {
+            "name": "boywus",
+            "homepage" : "http://nice3.cn"
+        }
+
+    ],
+    "require": {}
+}
